@@ -36,6 +36,7 @@ A Python-based application that allows users to download videos from YouTube and
 - **Archive.org** (for public domain videos)
 
 ### **How to Use**
+
 1. **Clone the Repository**:
    - Clone the repository using the following command:
      ```bash
@@ -54,6 +55,16 @@ A Python-based application that allows users to download videos from YouTube and
      ```bash
      python gui_video_downloader.py
      ```
+
+### **Screenshot of the Application Interface**
+
+Here’s a screenshot of the interface:
+![image](https://github.com/user-attachments/assets/42df1d65-c61c-400c-a3be-5889c9722972)
+
+
+- The interface allows you to input the YouTube URL, select the quality, and start downloading.
+
+---
 
 ### **Installation and Setup**
 #### 1. **Clone the Repository**:
