@@ -28,7 +28,6 @@ A Python-based application that allows users to download videos from YouTube and
 - **DailyMotion**
 - **Mixer**
 - **Bilibili**
-- **Pornhub, XVideos, and other adult platforms** (with proper configurations)
 - **Spotify** (for audio downloads via special post-processing)
 - **Metacafe**
 - **Flickr**
