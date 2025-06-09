@@ -33,7 +33,7 @@ A Python-based application that allows users to download videos from YouTube and
 - **Flickr**
 - **MySpace**
 - **Archive.org** (for public domain videos)
-
+**and much more**
 ### **How to Use**
 
 1. **Clone the Repository**:
